@@ -1,0 +1,4 @@
+bom: PCB/Openspritzer/1-click-bom.csv
+gerbers: PCB/Openspritzer/gerber
+summary: an open hardware pressure ejection system for reliably delivering picolitre volumes.
+site: https://github.com/BadenLab/Openspritzer
